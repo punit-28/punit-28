@@ -1,43 +1,53 @@
 <p align="center">
-  <img src="banner.png" width="100%" />
+  <img src="banner.png" width="100%" alt="Banner" />
 </p>
-<hr>
-🎓 **B.Tech in Information Technology** @ NIT Srinagar
 
-💻 **Full Stack Developer** passionate about building modern, scalable web applications.
+---
 
-🧩 **Solved 1000+ LeetCode problems** and continuously sharpening problem-solving skills.
+# Hi 👋, I'm Punit Mundotiya
 
-🌱 **Currently exploring**
+🎓 <b>B.Tech in Information Technology</b> @ NIT Srinagar
+
+💻 <b>Full Stack Developer</b> passionate about building modern, scalable web applications.
+
+🧩 <b>Solved 1000+ LeetCode Problems</b> and continuously sharpening problem-solving skills.
+
+🌱 <b>Currently Exploring</b>
+
 - ⚡ Next.js
 - 🟦 TypeScript
 - 🏗️ System Design
 
-🎯 **Goal:** Build impactful products that solve real-world problems.
+🎯 <b>Goal:</b> Build impactful products that solve real-world problems.
 
-☕ *Fueled by curiosity, coffee, and clean code.*
-<hr>
-<h2 align="center"> Connect With Me </h2>
+☕ <i>Fueled by curiosity, coffee, and clean code.</i>
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://punit-art-my-portfolio.vercel.app/" >
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://punit-art-my-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/punit-28">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/punit-mundotiya-621a84339/" >
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/punit-mundotiya-621a84339/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:punitmundotiya24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://drive.google.com/file/d/1KVKeJYb18w3qMh8Asnq6gL0WbaPz02J3/view" >
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+  <a href="https://drive.google.com/file/d/1KVKeJYb18w3qMh8Asnq6gL0WbaPz02J3/view">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
   </a>
 </p>
-</br>
-<hr>
-<h2 align="center">✨ Tech Stack ✨</h2>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github,vscode,postman,vercel&perline=9" />
+
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github,vscode,postman,vercel&perline=9" />
 </p>
